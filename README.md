@@ -7,6 +7,10 @@ I have 11 years of experience in the tax area and I am migrating to the developm
 - 📚 I’m currently learning android development (Java, Kotlin).
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+          
+
+
 
 <!--
 **williandiasc/williandiasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
