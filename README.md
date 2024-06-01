@@ -4,7 +4,7 @@ I have 13 years of experience in the tax area and I am migrating to the developm
 
 - 🔭 I’m currently working on a freelance delivery project, where I'm developing a website and, in the future, an app.
 - 🎓 I am studying systems analysis and development.
-- 📚 I’m currently learning android development (Java, Kotlin).
+- 📚 I am currently dedicated to developing and studying technologies: Java, Spring Boot, Spring Data JPA, Spring Security, Spring MVC and Angular.
           
 
 
